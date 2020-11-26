@@ -1,0 +1,12 @@
+D:\Programming-for-beginer\Console-this-day\Console-this-day\bin\Debug\netcoreapp3.1\Console-this-day.exe
+D:\Programming-for-beginer\Console-this-day\Console-this-day\bin\Debug\netcoreapp3.1\Console-this-day.deps.json
+D:\Programming-for-beginer\Console-this-day\Console-this-day\bin\Debug\netcoreapp3.1\Console-this-day.runtimeconfig.json
+D:\Programming-for-beginer\Console-this-day\Console-this-day\bin\Debug\netcoreapp3.1\Console-this-day.runtimeconfig.dev.json
+D:\Programming-for-beginer\Console-this-day\Console-this-day\bin\Debug\netcoreapp3.1\Console-this-day.dll
+D:\Programming-for-beginer\Console-this-day\Console-this-day\bin\Debug\netcoreapp3.1\Console-this-day.pdb
+D:\Programming-for-beginer\Console-this-day\Console-this-day\obj\Debug\netcoreapp3.1\Console-this-day.AssemblyInfoInputs.cache
+D:\Programming-for-beginer\Console-this-day\Console-this-day\obj\Debug\netcoreapp3.1\Console-this-day.AssemblyInfo.cs
+D:\Programming-for-beginer\Console-this-day\Console-this-day\obj\Debug\netcoreapp3.1\Console-this-day.csproj.CoreCompileInputs.cache
+D:\Programming-for-beginer\Console-this-day\Console-this-day\obj\Debug\netcoreapp3.1\Console-this-day.dll
+D:\Programming-for-beginer\Console-this-day\Console-this-day\obj\Debug\netcoreapp3.1\Console-this-day.pdb
+D:\Programming-for-beginer\Console-this-day\Console-this-day\obj\Debug\netcoreapp3.1\Console-this-day.genruntimeconfig.cache

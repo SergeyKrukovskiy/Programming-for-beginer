@@ -1,0 +1,9 @@
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\bin\Debug\Dialog-windows-this-day.exe.config
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\bin\Debug\Dialog-windows-this-day.exe
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\bin\Debug\Dialog-windows-this-day.pdb
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\obj\Debug\Dialog-windows-this-day.csprojAssemblyReference.cache
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\obj\Debug\Dialog_windows_this_day.Properties.Resources.resources
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\obj\Debug\Dialog-windows-this-day.csproj.GenerateResource.cache
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\obj\Debug\Dialog-windows-this-day.csproj.CoreCompileInputs.cache
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\obj\Debug\Dialog-windows-this-day.exe
+D:\Programming-for-beginer\Dialog-windows-this-day\Dialog-windows-this-day\obj\Debug\Dialog-windows-this-day.pdb
