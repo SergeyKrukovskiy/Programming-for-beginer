@@ -1,0 +1,8 @@
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\bin\Debug\Dialog-windows-firstname-age.exe.config
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\bin\Debug\Dialog-windows-firstname-age.exe
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\bin\Debug\Dialog-windows-firstname-age.pdb
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\obj\Debug\Dialog_windows_firstname_age.Properties.Resources.resources
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\obj\Debug\Dialog-windows-firstname-age.csproj.GenerateResource.cache
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\obj\Debug\Dialog-windows-firstname-age.csproj.CoreCompileInputs.cache
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\obj\Debug\Dialog-windows-firstname-age.exe
+D:\Programming-for-beginer\Dialog-windows-firstname-age\Dialog-windows-firstname-age\obj\Debug\Dialog-windows-firstname-age.pdb

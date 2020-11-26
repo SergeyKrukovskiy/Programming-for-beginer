@@ -1,0 +1,13 @@
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\bin\Debug\netcoreapp3.1\Console-firstname-age.exe
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\bin\Debug\netcoreapp3.1\Console-firstname-age.deps.json
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\bin\Debug\netcoreapp3.1\Console-firstname-age.runtimeconfig.json
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\bin\Debug\netcoreapp3.1\Console-firstname-age.runtimeconfig.dev.json
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\bin\Debug\netcoreapp3.1\Console-firstname-age.dll
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\bin\Debug\netcoreapp3.1\Console-firstname-age.pdb
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.csprojAssemblyReference.cache
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.AssemblyInfoInputs.cache
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.AssemblyInfo.cs
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.csproj.CoreCompileInputs.cache
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.dll
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.pdb
+D:\Programming-for-beginer\Console-firstname-age\Console-firstname-age\obj\Debug\netcoreapp3.1\Console-firstname-age.genruntimeconfig.cache
