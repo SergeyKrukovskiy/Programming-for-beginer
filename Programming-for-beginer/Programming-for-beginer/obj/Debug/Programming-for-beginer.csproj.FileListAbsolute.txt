@@ -1,0 +1,9 @@
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\bin\Debug\Programming-for-beginer.exe.config
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\bin\Debug\Programming-for-beginer.exe
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\bin\Debug\Programming-for-beginer.pdb
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\obj\Debug\Programming-for-beginer.csprojAssemblyReference.cache
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\obj\Debug\Programming_for_beginer.Properties.Resources.resources
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\obj\Debug\Programming-for-beginer.csproj.GenerateResource.cache
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\obj\Debug\Programming-for-beginer.csproj.CoreCompileInputs.cache
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\obj\Debug\Programming-for-beginer.exe
+D:\Programming-for-beginer\Programming-for-beginer\Programming-for-beginer\obj\Debug\Programming-for-beginer.pdb
