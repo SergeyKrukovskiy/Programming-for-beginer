@@ -1,0 +1,13 @@
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\bin\Debug\netcoreapp3.1\Console-firsname-and-lastname.exe
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\bin\Debug\netcoreapp3.1\Console-firsname-and-lastname.deps.json
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\bin\Debug\netcoreapp3.1\Console-firsname-and-lastname.runtimeconfig.json
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\bin\Debug\netcoreapp3.1\Console-firsname-and-lastname.runtimeconfig.dev.json
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\bin\Debug\netcoreapp3.1\Console-firsname-and-lastname.dll
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\bin\Debug\netcoreapp3.1\Console-firsname-and-lastname.pdb
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.csprojAssemblyReference.cache
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.AssemblyInfoInputs.cache
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.AssemblyInfo.cs
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.csproj.CoreCompileInputs.cache
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.dll
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.pdb
+D:\Programming-for-beginer\Console-firsname-and-lastname\Console-firsname-and-lastname\obj\Debug\netcoreapp3.1\Console-firsname-and-lastname.genruntimeconfig.cache
